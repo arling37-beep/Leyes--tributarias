@@ -1,0 +1,20 @@
+titulo: "Ley Nº. 977, Ley Contra el Lavado de Activos, el Financiamiento al Terrorismo y el Financiamiento a la Proliferación de Armas de Destrucción Masiva"
+categoria: financiero
+paginas: 24
+articulos_detectados: 48
+tipo: ley
+numero: "Ley N.º 977"
+fecha_aprobacion: "2018-07-16"
+fecha_publicacion: "2018-07-20"
+gaceta: "138"
+vigente: true
+fecha_verificacion: '2026-08-15'
+estado_extraccion: OK
+archivo_origen: "Ley Nº. 977, Ley Contra el Lavado de Activos.pdf"
+formato_numeracion: Artículo
+reformas:
+  - "Ley N.º 1215, Ley de Reformas y Adiciones a la Ley N.º 977 (ver archivo separado en este repo)"
+  - "Texto consolidado más reciente localizado: publicado en Gaceta 153, 20 agosto 2024 (RAE) — indica reformas adicionales entre 2018 y 2024 no completamente identificadas"
+  - "[[ley-1282-reforma-lavado-activos-2026]] - reforma integral posterior, ver archivo separado"
+vigencia_incierta: true
+notas: "IMPORTANTE: el archivo de este repo es la versión de 2018 sin reformas incorporadas. Existe al menos un texto consolidado posterior (Gaceta 153, 20 ago 2024) y la reforma más reciente Ley 1282 (~2026, ver archivo separado). Se recomienda reemplazar este archivo por el texto consolidado más reciente antes de usarlo para análisis."
