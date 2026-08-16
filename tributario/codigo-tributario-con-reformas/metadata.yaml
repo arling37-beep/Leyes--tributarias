@@ -1,0 +1,15 @@
+titulo: "Código Tributario de la República de Nicaragua"
+categoria: tributario
+paginas: 68
+articulos_detectados: 226
+tipo: codigo
+numero: "Ley N.º 562"
+fecha_aprobacion: "2005-10-28"
+fecha_publicacion: "2005-11-23"
+gaceta: "227"
+vigente: true
+fecha_verificacion: '2026-08-15'
+estado_extraccion: OK
+archivo_origen: "Código tributario Con reformas.pdf"
+formato_numeracion: Arto.
+notas: "Fuente: digesto.asamblea.gob.ni/pub/cod/vigentes.html. El PDF se titula 'Con reformas' pero el texto extraído no marca visualmente qué artículos fueron reformados ni por cuál ley — verificar reformas puntuales (Ley 598, entre otras) contra el Digesto oficial si se necesita esa trazabilidad."
