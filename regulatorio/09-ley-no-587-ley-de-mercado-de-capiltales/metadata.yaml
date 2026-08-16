@@ -1,0 +1,19 @@
+titulo: "Ley N°. 587, Ley de Mercado de Capitales"
+categoria: regulatorio
+paginas: 90
+articulos_detectados: 216
+tipo: ley
+numero: "Ley N.º 587"
+fecha_aprobacion: "2006-10-26"
+fecha_publicacion: "2006-11-15"
+gaceta: "222"
+vigente: true
+fecha_verificacion: '2026-08-15'
+estado_extraccion: OK
+archivo_origen: "09_Ley_No_587_Ley_de_Mercado_de_Capiltales.pdf"
+formato_numeracion: Artículo
+reformas:
+  - "Ley N.º 1079 (Gaceta 160, 26 agosto 2021) - reforma"
+  - "Ley N.º 974, Ley del Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas (2018)"
+  - "Ley N.º 1175, Digesto de Banca y Finanzas actualizado (aprobada 30 nov 2023, publicado Gaceta 153, 20 agosto 2024)"
+notas: "El archivo de este repo parece ser el texto consolidado al 10 de mayo de 2018 (según el nombre de archivo original, tomado de BCN). Existe una versión consolidada más reciente (Gaceta 153, 20 ago 2024) que incorpora la Ley 1079. Verificar cuál versión contiene el PDF antes de citar artículos con reformas de 2021 en adelante."
