@@ -1,0 +1,20 @@
+titulo: "Texto Consolidado, Ley N°. 601, Ley de Promoción de la Competencia"
+categoria: competencia
+paginas: 20
+articulos_detectados: 56
+tipo: ley
+numero: "Ley N.º 601"
+fecha_aprobacion: "2006-09-28"
+fecha_publicacion: "2006-10-24"
+gaceta: "206"
+vigente: true
+fecha_verificacion: '2026-08-15'
+estado_extraccion: OK
+archivo_origen: "Texto Consolidado, Ley N°. 601, Ley de Promoción de la Competencia.pdf"
+formato_numeracion: Artículo
+reformas:
+  - "Ley N.º 668 (Gaceta 174, 9 sept 2008)"
+  - "Ley N.º 773 (Gaceta 200, 24 oct 2011)"
+  - "Ley N.º 840"
+  - "Ley N.º 868 (Gaceta 106, 10 jun 2014) - derogó numeral 3 del Art. 52"
+notas: "Fuente: dpej.rae.es y FAOLEX. Reglamento: Decreto N.º 79-2006, publicado Gaceta 10, 15 enero 2007."
