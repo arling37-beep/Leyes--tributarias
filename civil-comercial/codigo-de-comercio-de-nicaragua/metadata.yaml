@@ -1,0 +1,14 @@
+titulo: "Código de Comercio de la República de Nicaragua"
+categoria: civil-comercial
+paginas: 538
+articulos_detectados: 2
+tipo: codigo
+fecha_aprobacion: "1914-04-30"
+fecha_publicacion: "1916-10-30"
+gaceta: "248 (Decreto de Promulgación)"
+vigente: true
+fecha_verificacion: '2026-08-15'
+estado_extraccion: OK
+archivo_origen: "Código de Comercio de Nicaragua.pdf"
+formato_numeracion: Arto.
+notas: "Fuente: digesto.asamblea.gob.ni/pub/cod/vigentes.html. NOTA: solo 2 artículos detectados por el patrón automático — probablemente el documento usa una numeración distinta (ej. 'Art.' sin punto tras 'Arto') que el script no capturó; revisar manualmente si se necesita el índice completo de artículos."
