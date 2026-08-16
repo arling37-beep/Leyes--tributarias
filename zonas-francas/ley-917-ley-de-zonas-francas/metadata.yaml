@@ -1,0 +1,20 @@
+titulo: "Ley 917, Ley de Zonas Francas de Exportación"
+categoria: zonas-francas
+paginas: 10
+articulos_detectados: 29
+tipo: ley
+numero: "Ley N.º 917"
+fecha_aprobacion: "2015-10-08"
+fecha_publicacion: "2015-10-16"
+gaceta: "196"
+vigente: true
+fecha_verificacion: '2026-08-15'
+estado_extraccion: OK
+archivo_origen: "Ley 917 Ley de Zonas Francas.pdf"
+formato_numeracion: Artículo
+reformas:
+  - "Ley de Reforma a la Ley N.º 917 (Gaceta, 9 nov 2022) - modificó Arts. 11, 12, 22, 23 num.4, y 24"
+  - "Ley N.º 1136 (Gaceta, 10 nov 2022) - modificó otro artículo relacionado con la administración"
+  - "Ley N.º 1278 (abril 2026) - reforma reciente que el usuario ya tiene por separado, cambia régimen de prórrogas de exención de IR y agrega exención de dividendos"
+vigencia_incierta: true
+notas: "IMPORTANTE: el archivo de este repo NO incluye las reformas de 2022 ni la de 2026 (Ley 1278). Deroga el Decreto 46-91 (Zonas Francas Industriales de Exportación, 1991). Reglamento: Decreto 12-2016, publicado Gaceta 153, 16 agosto 2016."
