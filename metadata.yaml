@@ -1,15 +1,15 @@
-titulo: Ley del Digesto Jurídico Nicaragüense de la Materia Laboral
-categoria: laboral
+titulo: Ley del Digesto Jurídico Nicaragüense de la Materia Municipal
+categoria: municipal
 tipo: digesto
-numero: Ley N.º 1027
+numero: Ley N.º 1048
 vigente: true
 fecha_verificacion: '2026-08-20'
 estado_extraccion: OK
 formato_numeracion: Artículo
-articulos_detectados: 331
-notas: 'Digesto que consolida el marco jurídico laboral vigente, incluyendo referencia
-  al Código del Trabajo (Ley 185, ver archivo separado en esta misma categoría). Fuente:
-  legislacion.asamblea.gob.ni, texto nativo (124 páginas).'
-fecha_aprobacion: '2020-04-29'
-fecha_publicacion: '2020-10-29'
-gaceta: '200'
+articulos_detectados: 139
+notas: 'Digesto que consolida el marco jurídico municipal vigente. Complementa los
+  decretos municipales ya presentes en esta categoría (455, 10-91, 3-95, Ley 1054
+  Rótulos). Fuente: legislacion.asamblea.gob.ni, texto nativo (145 páginas).'
+fecha_aprobacion: '2020-11-26'
+fecha_publicacion: '2021-10-13'
+gaceta: '189'
