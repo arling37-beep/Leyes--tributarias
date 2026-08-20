@@ -1,15 +1,12 @@
-titulo: "Ley N°. 1054, Ley de Rótulos"
-categoria: municipal
-paginas: 10
-articulos_detectados: 30
-tipo: ley
-numero: "Ley N.º 1054"
-fecha_aprobacion: "2020-12-10"
-fecha_publicacion: "2020-12-17"
-gaceta: "234"
+titulo: Código del Trabajo
+categoria: laboral
+tipo: codigo
+numero: Ley N.º 185
 vigente: true
-fecha_verificacion: '2026-08-15'
+fecha_verificacion: '2026-08-20'
 estado_extraccion: OK
-archivo_origen: "Ley 1054. Ley de Rotulos.pdf"
-formato_numeracion: Artículo
-notas: "Regula publicidad y propaganda mediante rótulos a nivel municipal, con tabla de impuestos por clasificación y categoría de municipio (Art. 13). Deroga el Art. 44 del Decreto 455 y el Art. 21 del Decreto 10-91 (ambos ya en este repositorio) en lo relativo a rótulos. Fuente: PDF subido directamente por el usuario, con texto nativo completo (no requirió OCR)."
+formato_numeracion: Art.
+articulos_detectados: 407
+notas: 'Fuente: legislacion.asamblea.gob.ni, texto nativo completo (71 páginas).'
+fecha_publicacion: '1996-10-30'
+gaceta: '205'
